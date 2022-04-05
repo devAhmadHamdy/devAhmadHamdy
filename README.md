@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to be Effective 
 - 💞️ I’m looking to collaborate on making coding easir 
 - 📫 How to reach me +201201511592
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devAhmadHamdy&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devAhmadHamdy&theme=dark&show_icons=true)
 
 
 <!---
